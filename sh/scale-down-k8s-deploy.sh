@@ -22,5 +22,3 @@ done
 
 echo "Scale down complete"
 
-
-
